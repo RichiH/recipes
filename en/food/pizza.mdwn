@@ -1,0 +1,27 @@
+# Prerequisites
+
+1. See [dough](pizza_dough.mwdn)
+2. See [sauce](pizza_sauce.mdwn)
+
+# Ingredients
+
+* XXX pesto genovese
+* XXX buffalo mozzarella
+* 1-2 bell peppers
+
+## Optional
+
+* Fresh basil
+* Oregano
+
+# Preparation
+
+1. Pre-heat oven to maximum. 300C and above are best. # TODO convection yes/no?
+2. Slice buffalo mozzarella
+3. Slice bell peppers
+4. Roll out dough
+5. Slather with sauce
+6. Place mozzarella
+7. Place bell peppers
+8. Dribble pesto genovese
+9. Put into oven, wait for 5-15m, depending on heat; you will need to figure this out depending on your oven. Write it down.
