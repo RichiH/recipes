@@ -1,3 +1,13 @@
+# Abstract
+
+This dough also works nicely for bread.
+If you ever visited one of those tiny Italian beach cafes in which no tourists can be found and ate their sandwiches: That's how bread made from this dough tastes.
+
+Feeds: 4
+Time for prep: 20m in the beginning, 20m at the end
+Total time: 120m, max
+Suggested variance: None; stick to this 100%
+
 # Ingredients
 * 600g wheat flour
 * 100g olive oil (yes, gram)
