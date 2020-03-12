@@ -1,6 +1,6 @@
 # Prerequisites
 
-1. See [dough](pizza_dough.mwdn)
+1. See [dough](pizza_dough.mdwn)
 2. See [sauce](pizza_sauce.mdwn)
 
 # Ingredients
